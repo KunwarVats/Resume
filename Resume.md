@@ -2,49 +2,64 @@
 My Latest Resume
 Kunwar Vats
 
-Address: Brampton, Ontario 
-Email: kunwarv231@gmail.com   
-Mobile: +1 (416) 854-9840
-LinkedIn: https://www.linkedin.com/in/kunwar-vats-7522068a
-GitHub Portfolio: https://github.com/kunwar81145vats
+KUNWAR VATS
++1 (416) 854-9840     	vatskunwar@gmail.com
+SUMMARY
 
-Experienced iOS Developer with a six-year proficiency in utilizing the Swift language. Skilled at creating innovative projects from scratch and implementing new features within existing applications. Proactively stays up-to-date with emerging technologies, anticipating and resolving potential challenges for future developments. Skilled in various coding languages, including Swift, UI design using UIKit and SwiftUI, and tools such as XCode, Cornerstone, SourceTree, and Figma. Proficient in development skills like REST API, SOAP API, Firebase, Google Analytics, and design patterns, including MVC, MVVM, and VIPER. Well-versed in Agile and Scrum methodologies.
-
-Core Competencies
-iOS Developer					Team Management 	                       Problem Solving 
-Software Developer				Google Analytics 		          Stakeholder Management
-Mobile Application Development		Data Analytics 		          Agile and Scrum Methodology  
-Professional Experience 
-Senior Software Engineer | EROUTE TECHNOLOGIES | May 2021- Oct 2021   
-Drove a substantial 30% enhancement in data efficiency and user satisfaction through the implementation of MixPanel, effectively collecting and analyzing user data for optimizing in-app experiences at a high level.
-Orchestrated a significant 25% reduction in bugs and bolstered overall code quality by standardizing Git workflows and introducing comprehensive code review policies, ensuring a streamlined and efficient development process.
-Software Developer  | Nile Technologies | Nov 2020 – May 2021
-
-Leveraged expertise in AB testing by implementing AB Employed Google Analytics, dynamically updating texts, colour schemes, and other elements to drive an impressive 20% surge in user engagement, showcasing a keen understanding of user behaviour and preferences.
-Demonstrated a profound understanding of Apple's Human Interface Guidelines, resulting in a remarkable 15% increase in app store acceptance rate, reflecting attention to detail and adherence to industry best practices.
-Software Developer | GYMHOP TECHNOLOGIES | Feb 2019 – Nov 2020 
-
-Demonstrated exceptional development proficiency by integrating JWPlayer for video streaming, significantly reducing development time by an impressive 40 days, showcasing an innovative approach to optimizing project timelines and efficiency.
-Showcased expertise in app store submission management, achieving an outstanding 95% acceptance rate for multiple app submissions and minimizing rejections through meticulous attention to detail and adherence to industry standards.
-
-Senior iOS Developer | WEBMAAZIX SOLUTIONS | Aug 2018 – Jan 2019
-
-Successfully mitigated battery drainage issues by skillfully optimizing location update frequency logic, leading to an impressive 20% enhancement in device battery life, demonstrating a strong command over intricate technical problem-solving and enhancing user experience.
-Demonstrated meticulous attention to detail and technical acumen by meticulously reviewing client requirements, wireframes, and designs, securing an outstanding 95% approval rate, highlighting a keen understanding of client needs and a commitment to delivering high-quality solutions.
-
-Senior Software Developer | ETELLIGENS TECHNOLOGIES | Aug 2017 – May 2018 
-Leveraged leadership and technical expertise to mentor iOS and Android interns, boasting an impressive 90% program completion rate. 
-Gained a stellar 95% positive feedback rating, recognized for providing impactful guidance, fostering skill development, and exhibiting strong mentorship capabilities.
-Demonstrated proficiency in project management and development by achieving an exceptional 90% user story completion rate. 
-Expertly facilitated the timely delivery of high-quality applications that consistently aligned with and exceeded client expectations, showcasing exceptional project coordination and delivery skills.
-
-iOS Developer | IGNIVA INFOTECH | Sept 2015 – Apr 2017
-
-Innovatively engineered a seamless feature that integrated a pedometer and location updates, enabling precise step tracking during walking/running. 
-Achieved an impressive accuracy rate of less than 5 steps deviation per 150 recorded instances, ensuring meticulous and precise monitoring for users.
-Demonstrated exceptional technical proficiency by successfully upgrading multiple applications from MVC to MVVM design patterns, resulting in a remarkable 30% reduction in code complexity.
-Significantly improved the overall maintainability and testability of the applications, showcasing a strong command over software architecture and development principles.
-Education
-Bachelor’s in Technology | Computer Science Engineering | IET Bhaddal, India | 2015
-
-Certificates  PG Certificate | Mobile Application Development | Cambrian College | Sudbury, Canada | 2022
+iOS Developer with over 6+ years of experience in developing and deploying high-quality mobile applications. Expertise in Swift, SwiftUI and UIKit, with an extensive understanding of Apple APIs and frameworks. 
+TECHNICAL SKILLS 
+•	Languages & Frameworks: Swift, SwiftUI, Python.
+•	Tools & Platforms: Docker, SourceTree, Figma, Jira, TeamGantt, Trello, Confluence, GitHub, BitBucket, Jenkins.
+•	APIs & Integrations: Networking with JSON, XML, REST API, SOAP API, Sockets.
+•	iOS Development: UIKit, GIT, FastLane, Firebase, CI/CD, A/B Testing, Mixpanel, Intercom, HealthKit, XCTests, Realm, SPM, CocoaPods, CoreLocation, CoreData, CoreAnimation, Cloud messaging APIs and Push Notifications
+•	Architectures: MVC, MVVM, VIPER.
+PROFESSIONAL EXPERIENCE
+iOS Developer	10/2024 – present 
+Gokaddal Technologies	 
+•		Leading the development of an iOS app from scratch using Swift to track shipments, monitor trucks’ health, fuel, and tyre conditions, as well as driver metrics (heart rate, BPM).
+•	Designing the app’s user interface in Figma, creating intuitive screens that align with user experience best practices and cater to dynamic data display
+•	Ensuring API consumption by managing API calls and parsing data related to shipment tracking, truck health, and driver conditions for dynamic app updates.
+•	Utilizing modern architecture patterns like MVVM to maintain scalability and improve code structure, ensuring efficient data handling and smooth user interactions.
+iOS Developer	11/2022 – 09/2024 
+Freelance	 
+•		Enhanced a news app by optimizing article feed loading, cutting down load times by 40% through background data fetching and UI optimizations, leading to smoother user interactions.
+•	Designed and implemented user interfaces using UIKit, SwiftUI, and Auto Layout to meet client specifications. 
+•	Integrated third-party APIs and services, including RESTful and GraphQL APIs, to enhance app functionality.
+•	Developed an employee feedback and reward system, creating a robust application that facilitated real-time feedback and recognition, enhancing employee engagement and satisfaction.
+Senior Software Engineer, iOS 	05/2021 – 10/2021 
+Eroute Technologies | https://apple.co/3yUDwef	   
+•	Led the development of a feature in an iOS app to support prepaid card transactions, integrating with backend systems to ensure seamless functionality and a smooth user experience.
+•	Collaborated with a small, dynamic team in daily stand-ups to implement quick product validation cycles, aligning with the company’s priorities.
+•	Implemented unit tests with XCTest, creating over 200 test cases to enhance code reliability and streamline the bug detection process.
+•	Managed integration with the primary codebase via GitHub pull requests, coordinating over 150 merges and resolving conflicts to maintain consistent and stable code across multiple branches.
+Software Developer, iOS	11/2020 – 05/2021
+Nile Technologies	
+•		Implemented and iterated on UI improvements for a real-time messaging app, using a rapid development approach to enhance user experience and achieve a 20% boost in user satisfaction, based on user feedback and engagement metrics.
+•	Standardized Git workflows and implemented code review policies, improving code quality by 25%.
+•	Optimized mobile app performance, achieving 40% faster load times through efficient coding practices.
+•	Identified and fixed critical bugs and performance issues, boosting app stability and user satisfaction.
+Software Developer, iOS	02/2019 – 12/2020 
+Gymhop Technologies | https://apple.co/4dCpcq1 | https://apple.co/470Hpei	   
+•	Led the feature implementation for live video training sessions, coordinating with cross-functional teams to deliver a seamless user experience.
+•	Used JIRA to track tasks, manage progress, and facilitate communication, applying Agile practices like daily stand-ups and sprint planning to ensure timely delivery of high-quality features.
+•	Work closely with product managers, UX/UI designers, and other stakeholders to understand requirements and translate them into elegant technical solutions.
+•	Managed app store approval process, achieving a 95% acceptance rate.
+Senior iOS Developer	08/2018 – 01/2019 
+Webmaazix Solutions	    
+•	Resolved battery drainage issues, optimizing location update logic for 20% increased device battery life.
+•	Conducted code reviews, providing feedback and mentoring interns, achieving a 90% program completion rate.
+•	Dedicated to taking ownership of critical project milestones, ensuring on-time delivery and maintaining high-quality standards through rigorous testing and code reviews.
+Senior Software Developer, iOS	08/2017 – 05/2018
+Etelligens Technologies	                                                            
+•	Developed a school bus tracking app feature that enabled real-time location tracking and notifications for parents and school administrators, enhancing communication and safety.
+•		Localised a mobile app to support RTL languages, enhancing accessibility and user experience for users in RTL language regions.
+•	Engineered creative solutions to complex performance issues by optimizing code and integrating new technologies, resulting in a 30% boost in application speed and responsiveness.
+iOS Developer	09/2015 – 04/2017
+Igniva Infotech	
+•	Developed precise step tracking feature combining pedometer and location updates, achieving less than 5 steps deviation per 150 recorded.
+•	Led dynamic UI updates project, improving user satisfaction by 15%.
+•	Collaborated on user interface design using UIKit and Auto Layout, assisting in the creation of over 20 screens that enhanced app usability.
+EDUCATION
+•	PG Certificate in Mobile Applications Development, Cambrian College	2022
+•	Bachelor’s of Technology in Computer Science Eng., IET Bhaddal	2015
+![image](https://github.com/user-attachments/assets/4fd09987-9ae0-4a82-9ca6-2ede0ae645c8)
